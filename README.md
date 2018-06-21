@@ -1,5 +1,5 @@
 # coub-dl
-Command-line program to download videos from coub.com
+Module for python to download videos from coub.com
 
 	from coub_dl import Coub
 	
